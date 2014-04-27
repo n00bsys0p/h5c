@@ -1,0 +1,5 @@
+# Ignore everything in this directory but leave the folde
+# in to avoid Linux daemon compile errors.
+*
+# Except this file
+!.gitignore
